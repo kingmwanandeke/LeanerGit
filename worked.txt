@@ -1,11 +1,13 @@
 
-STEPS TOO CREATE A NEW FILE WHEN THE DIRECTORY IS THERE...EXISTING
+STEPS TO CREATE A NEW FILE WHEN THE DIRECTORY IS THERE...EXISTING
 
 >echo "any thing you like here" >>worked.txt or any name which you like to create
 >git init
 >git status
 >git add worked.txt
 >git status : showing whether the file has been modified or not
-> git commit -m "initial commit "
+>notepad worked.txt ( save any changes then close the window).
+>git status: to see any change made or if the "modified" is turned red or green
+>git commit -m "initial commit "
 >git push 
 DONE !!
