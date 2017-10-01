@@ -1,7 +1,7 @@
                                GIT-BASH COMMANDS (01/Oct/2017)
 
 $ git status = show the status or where I'm currently.
-$ git ls = list everything with the following folder I'm using/in.
+$ git ls = list everything within the following folder I'm using/in.
 $ git pwd = show the repository name.
 $ cd 'repository name here' = enter into the following (existing) repository.
 $ git commit -rm 'file name' = remove the file.
@@ -9,7 +9,7 @@ $ git pull = when you are into a repository it will pull everything which are on
 $ git commit -m "initial commit" = taking everything from the local to the server.
 $ git push = from the local folder to the server after the "commit -m".
 $ cd .. = quit the reposistory and go back to the origin state.
-$ exit = same as closing the after returning to the orgin state which you began with.
+$ exit = same as closing the window after returning to the orgin state which you began with.
 
  #SHARING IS CARING ...I HOPE THIS WILL GUIDE YOU ALONG IF YOU ARE STUGGLING HOW TO USE GIT-BASH.
                               #BY KING M.K
