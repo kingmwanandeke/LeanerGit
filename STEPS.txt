@@ -11,5 +11,5 @@ $ git push = from the local folder to the server after the "commit -m".
 $ cd .. = quit the reposistory and go back to the origin state.
 $ exit = same as closing the window after returning to the orgin state which you began with.
 
- #SHARING IS CARING ...I HOPE THIS WILL GUIDE YOU ALONG IF YOU ARE STUGGLING HOW TO USE GIT-BASH.
+ #SHARING IS CARING ...I HOPE THIS WILL GUIDE YOU ALONG IF YOU ARE STUGGLING TO USE THE GIT-BASH.
                               #BY KING M.K
